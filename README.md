@@ -1,6 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
-
 # Hands-On Artificial Intelligence for IoT, Second Edition
 
 <a href="https://www.packtpub.com/en-in/product/hands-on-artificial-intelligence-for-iot-9781835467183"><img src="https://content.packt.com/B21975/cover_image.jpg?version=1746538222" alt="no-image" height="256px" align="right"></a>

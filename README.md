@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
+
 # Hands-On Artificial Intelligence for IoT, Second Edition
 
 <a href="https://www.packtpub.com/en-in/product/hands-on-artificial-intelligence-for-iot-9781835467183"><img src="https://content.packt.com/B21975/cover_image.jpg?version=1746538222" alt="no-image" height="256px" align="right"></a>

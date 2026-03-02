@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
 # Hands-On Artificial Intelligence for IoT, Second Edition
 
 <a href="https://www.packtpub.com/en-in/product/hands-on-artificial-intelligence-for-iot-9781835467183"><img src="https://content.packt.com/B21975/cover_image.jpg?version=1746538222" alt="no-image" height="256px" align="right"></a>
